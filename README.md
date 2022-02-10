@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**PeachBay/PeachBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Developer (ReactJS) working in Paris, France.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Freelancing on [Malt](https://www.malt.fr/profile/tiffeny)
+- 🤖 Learning Solidity & React Native
+- 🍑 My latest project is viewable here: [https://cra-password-generator.netlify.app/](https://cra-password-generator.netlify.app/)
+
+##### BIO
+
+- 🏢 I'm currently looking for an opportunity in **Monteal, Canada**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `.php`, `.svg`, `.psd`, `.ai`
+- 🌍 I visited: `Japan`, `USA (SF & Vegas)`, `Germany`, `Portugal`, `UK`, `Thailand`, `South Korea`, `Spain`
+- 📫 Reach me: [twitter.com/\_PeachBay](https://twitter.com/_PeachBay)
+- ⚡️ Fun fact: PeachBay, because Peach is my first fruit on Animal Crossing :).
